@@ -1,15 +1,30 @@
-### About Project 
+# ✅ Task Master — Daily Task Manager
 
-This is a skill demonstration project.
+**Task Master** is a simple full-stack web application for managing your daily tasks and improving productivity. It demonstrates core web development skills using Flask, SQLAlchemy, and SQLite.
 
-I have built a simple fullstack web application using flask framework having a database. SQLAlchemy is used for facilitating the communication between the application and the database. This is an application
-can be used for managing your daily task and it will make you more productive.
+---
 
+## ✨ Features
 
+- 🗂️ Add, update, and delete tasks
+- 📅 Track daily goals
+- ⚙️ Simple and intuitive interface
+- 💾 Built with Flask + SQLAlchemy + SQLite
 
-### How To Run
+---
 
-Open a terminal in the project root directory and run the following commands 
+## 🛠 Tech Stack
+
+- **Backend**: Flask, SQLAlchemy
+- **Database**: SQLite
+- **Frontend**: HTML, CSS (Bootstrap)
+- **Environment**: Python (virtualenv)
+
+---
+
+## 🚀 Getting Started
+
+Follow the steps below to set up and run the application locally.
 
 1. Install `virtualenv`:
 ```
@@ -35,7 +50,6 @@ $ (env) pip install -r requirements.txt
 ```
 $ (env) python app.py
 ```
-
 
 This server will start on port 5000 by default. You can change this in `app.py` by changing the following line to this:
 
