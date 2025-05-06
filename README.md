@@ -2,9 +2,8 @@
 
 This is a skill demonstration project.
 
-I have built a simple fullstack web application using flask framework having a database and SQLAlchemy is the 
-package used for facilitating the communication between the application and the database. This is an application
-can be used for managing your daily task and it will make you more productive. 
+I have built a simple fullstack web application using flask framework having a database. SQLAlchemy is used for facilitating the communication between the application and the database. This is an application
+can be used for managing your daily task and it will make you more productive.
 
 
 
